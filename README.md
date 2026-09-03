@@ -278,7 +278,8 @@ void Error_Handler(void)
 
 ## Output screen shots of proteus  :
 
- <img width="1280" height="758" alt="image" src="https://github.com/user-attachments/assets/fa324d1f-f883-4da8-b0b4-1fdf8e4df3d0" />
+<img width="1573" height="1000" alt="image" src="https://github.com/user-attachments/assets/413d44a5-4d63-489a-be23-a5581b7c6cf4" />
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
